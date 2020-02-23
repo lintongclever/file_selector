@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_divider_line">#FFD4D4D4</color>
+    <color name="bg_grey">#FFE5E5E5</color>
+    <color name="bg_head">#FF0F4AAA</color>
+    <color name="bg_white">#FFFFFFFF</color>
+    <string name="app_name">FileSelector</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_rar.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_rar.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_xls.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_xls.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_apk.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_apk.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_file_folder_item.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\layout\\activity_file_folder_item.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_checkbox_selected.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_txt.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_txt.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_file_home.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\layout\\activity_file_home.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tip.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_tip.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_normal.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable\\btn_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_checkbox_normal.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_video.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_video.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv_file_folder_bg.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable\\tv_file_folder_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_folder_file.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_folder_file.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_home_sd.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_home_sd.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_music.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_music.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back_normal.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_back_normal.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_pdf.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_pdf.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_dps.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_dps.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_back_bg.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable\\iv_back_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_ppt.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_ppt.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_default.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_default.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_home_mm.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_home_mm.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_file_my_item.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\layout\\activity_file_my_item.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_doc.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_doc.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_home_folder.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_home_folder.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_file_my.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\layout\\activity_file_my.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_folder_folder.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_folder_folder.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_file_folder.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\layout\\activity_file_folder.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back_pressed.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_back_pressed.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_img.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_img.png"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_pressed.xml.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable\\btn_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\androiddemo\\FileSelector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_home_big.png.flat",
+        "source": "D:\\androiddemo\\FileSelector\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_home_big.png"
+    }
+]
